@@ -4,4 +4,4 @@ Projekt zawiera program obsługujący czujnik BME280. Zczytane wartości tempera
 - czerwona = temperatura
 - zielona = ciśnienie
 - niebieska = wilgotność
-<br /> W projekcie zostały użyte dostarczone biblioteki obsługujące i2c oraz wyświetlacz lcd
+<br /><br />   W projekcie zostały użyte dostarczone biblioteki obsługujące i2c oraz wyświetlacz lcd
